@@ -1,0 +1,9 @@
+name: Andy Gott
+description: General ramblings. You’re probably not looking for this blog.
+url: http://andygott.com
+siteurl: http://andygott.com
+markdown: redcarpet
+redcarpet:
+  extensions: ["strikethrough", "tables"]
+pygments: true
+permalink: /:title
